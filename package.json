@@ -25,4 +25,8 @@
     "url": "https://github.com/mdtaylor76/cst336_lab5/issues"
   },
   "homepage": "https://github.com/mdtaylor76/cst336_lab5#readme"
+  
+  "scripts": {
+    "start": "node server.js"
+  }
 }
